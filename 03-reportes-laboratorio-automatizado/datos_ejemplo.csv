@@ -1,0 +1,9 @@
+muestra,parametro,valor,unidad,limite_min,limite_max
+M-001,pH,7.2,-,6.5,8.5
+M-001,Turbidez,3.1,NTU,,5
+M-001,Conductividad,420,uS/cm,,1000
+M-002,pH,9.1,-,6.5,8.5
+M-002,Turbidez,12.4,NTU,,5
+M-002,Conductividad,380,uS/cm,,1000
+M-003,pH,6.8,-,6.5,8.5
+M-003,Turbidez,0.9,NTU,,5
