@@ -15,4 +15,4 @@ Todos incluyen pruebas automáticas (`python -m pytest -q`) y se ejecutan con
 
 ## Contacto
 
-Colón - Panamá. Agrega aquí tu correo y tu enlace de LinkedIn.
+Colón, Panamá.
